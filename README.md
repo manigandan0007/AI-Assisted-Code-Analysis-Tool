@@ -79,8 +79,7 @@ pip install -r requirements.txt
 ### Start MCP Server
 
 ```bash
-python mcp_server.py
-```
+python mcp_server.py --path <your-project>```
 
 ### Run analysis
 
